@@ -1,0 +1,14 @@
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\bin\Debug\net10.0\mvcr.exe
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\bin\Debug\net10.0\mvcr.deps.json
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\bin\Debug\net10.0\mvcr.runtimeconfig.json
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\bin\Debug\net10.0\mvcr.dll
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\bin\Debug\net10.0\mvcr.pdb
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.AssemblyInfoInputs.cache
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.AssemblyInfo.cs
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.csproj.CoreCompileInputs.cache
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.dll
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\refint\mvcr.dll
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.pdb
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\mvcr.genruntimeconfig.cache
+C:\Users\Jhonathan\Documents\Projetos\C#\mvcr\obj\Debug\net10.0\ref\mvcr.dll
